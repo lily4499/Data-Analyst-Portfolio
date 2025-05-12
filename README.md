@@ -64,7 +64,7 @@ Each project folder includes:
 - 📄 Project-specific READMEs for walkthroughs
 
 
-## Portfolio Structure
+### Portfolio Structure
 
 ```bash
 data-analyst-portfolio/
